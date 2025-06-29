@@ -142,33 +142,6 @@ Install required packages using:
 
 ## pip install -r requirements.txt
 
----
-
-## Folder Structure
-
-loyalty-program-analysis/
-
-├── README.md                     # Project explanation and documentation
-
-├── data/
-
-│   └── Analytics_Position_Case_Study.xlsx
-
-├── notebook/
-
-│   └── loyalty_analysis.ipynb    # Full Jupyter notebook with code and analysis
-
-├── outputs/
-
-│   ├── slotwise_loyalty.csv
-
-│   └── top_50_bonus_allocation.csv
-
-├── requirements.txt              # Required Python libraries
-
-
----
-
 ## Conclusion
 
 This project demonstrates how data analysis can be used to support business decisions involving customer rewards and engagement. By building a fair and balanced scoring system, we ensure that both monetary contributions and active participation are recognized and rewarded.
